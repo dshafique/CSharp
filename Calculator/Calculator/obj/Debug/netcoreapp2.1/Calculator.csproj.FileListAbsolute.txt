@@ -1,0 +1,11 @@
+C:\Users\dawud\Desktop\Git\C#\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.deps.json
+C:\Users\dawud\Desktop\Git\C#\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.runtimeconfig.json
+C:\Users\dawud\Desktop\Git\C#\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.runtimeconfig.dev.json
+C:\Users\dawud\Desktop\Git\C#\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.dll
+C:\Users\dawud\Desktop\Git\C#\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.pdb
+C:\Users\dawud\Desktop\Git\C#\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.csprojAssemblyReference.cache
+C:\Users\dawud\Desktop\Git\C#\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\dawud\Desktop\Git\C#\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\dawud\Desktop\Git\C#\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.AssemblyInfo.cs
+C:\Users\dawud\Desktop\Git\C#\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.dll
+C:\Users\dawud\Desktop\Git\C#\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.pdb
